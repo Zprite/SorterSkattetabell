@@ -1,0 +1,5 @@
+------------------------- SorterSkattetabell ----------------------------
+
+
+1. Slipp .txt filen med skattetabellen på SorterSkattetabell.py skriptet.
+2. Feridg! En ny mappe med sepparate skattetabeller er nå tilgjengelig.
